@@ -1,0 +1,59 @@
+{
+  "experiment": "basic_3dn",
+  "timestamp": "2026-04-06T17:56:09.457056",
+  "steps": [
+    {
+      "name": "load_data",
+      "time_s": 3.383,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "basic_stats",
+      "time_s": 0.563,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "sales_by_category",
+      "time_s": 0.562,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "sales_by_region",
+      "time_s": 0.364,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "top_products",
+      "time_s": 0.305,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "monthly_trends",
+      "time_s": 0.316,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "age_group_analysis",
+      "time_s": 0.286,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "payment_analysis",
+      "time_s": 0.236,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "window_ranking",
+      "time_s": 0.498,
+      "ram_mb": 39.1
+    },
+    {
+      "name": "save_to_hdfs",
+      "time_s": 0.487,
+      "ram_mb": 39.1
+    }
+  ],
+  "total_time_s": 7.007,
+  "peak_ram_mb": 39.1,
+  "row_count": 120000
+}
